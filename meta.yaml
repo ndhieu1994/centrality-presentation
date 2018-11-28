@@ -1,0 +1,10 @@
+---
+title: 'Centrality Measures with Apache Flink'
+author: Nguyen Duc Hieu
+date: December 07, 2018
+# toc: true
+# theme: metropolis
+header-includes:
+  - \usefonttheme[onlymath]{serif}
+# colorlinks: true
+---

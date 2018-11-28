@@ -1,0 +1,11 @@
+- Grundlagen Flink
+    - Dataset
+    - Transformation
+- Grundlagen Centrality
+- Degree Centrality
+    - Formel
+    - Implementierung, Dataflow
+        - verw. Transformation
+- K-Betweenes Centrality
+    - Gelly: Pregel, BSP
+    - Implementierung mit Gelly
